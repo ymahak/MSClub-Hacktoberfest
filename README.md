@@ -2,22 +2,20 @@
 
 Welcome to the Hacktoberfest Python Projects Repository! This repository is a collection of beginner-friendly Python programs designed for participants to contribute during Hacktoberfest. Each project contains specific issues that contributors can work on to enhance their coding skills and engage with the open-source community.
 
-## Table of Contents
+## Programs
 
-- [Overview](#overview)
-- [Repository Structure](#repository-structure)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [Issues](#issues)
-  - [1. Calculator](#1-calculator-add-more-operations)
-  - [2. FizzBuzz](#2-fizzbuzz-allow-custom-input-range)
-  - [3. Palindrome Checker](#3-palindrome-checker-improve-efficiency)
-  - [4. Fibonacci Sequence](#4-fibonacci-sequence-output-as-a-list-or-in-a-formatted-string)
-  - [5. Factorial Calculator](#5-factorial-calculator-add-input-validation)
-  - [6. Prime Checker](#6-prime-checker-include-a-list-of-prime-numbers-in-a-range)
-  - [7. Count Vowels](#7-count-vowels-extend-to-count-consonants-too)
-  - [8. Reverse String](#8-reverse-string-add-a-feature-to-reverse-words-in-a-sentence)
-  - [9. Temperature Converter](#9-temperature-converter-include-conversions-to-kelvin)
+1. **Hello World**
+2. **Calculator**
+3. **FizzBuzz**
+4. **Palindrome Checker**
+5. **Fibonacci Sequence**
+6. **Factorial Calculator**
+7. **Prime Checker**
+8. **Count Vowels**
+9. **Reverse String**
+10. **Temperature Converter**
+
+
 
 ## Overview
 
